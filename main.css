@@ -1,0 +1,15 @@
+:root {
+  /* change this value for the background colour! */
+  --bg-color: #e5e5e5;
+  /* change this value for the starting card colour! */
+  --primary-color: #da4b27;
+  /* change this value for different font! Remember to first update your HTML file */
+  /* see here for more information: https://fonts.google.com/ */
+  --font-family: "Mitr", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
